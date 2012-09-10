@@ -1,6 +1,6 @@
 ##OSM TO GTFS##
 
-Project to transform OSM Public Transport data into the GTFS.
+Project to transform OSM Public Transport data into the GTFS.<br>
 NB: Code expects and assumes public transport data is stored according to the specific OSM Nepal Public Transportation project.
 
 For more on GTFS see: https://developers.google.com/transit/gtfs/ <br>
